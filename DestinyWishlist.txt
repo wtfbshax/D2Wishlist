@@ -1,1 +1,8 @@
-/mnt/e/Documents/DestinyWishlist.txt
+title: My Wishlists
+description: Shit I'm looking for
+//S20
+// Crucible Pulserifle
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,460017080#notes:Beo said roll for this
+
+// test
+dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3425386926#notes:Levon Test.
