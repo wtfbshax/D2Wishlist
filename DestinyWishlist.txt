@@ -9,3 +9,6 @@ dimwishlist:item=1028124540&perks=1482024992,106909392,2779035018,2048641572,398
 // Nameless Midnight
 dimwishlist:item=996109059&perks=839105230,106909392,3619207468,3891536761#notes: PVE keepaway
 dimwishlist:item=996109059&perks=839105230,106909392,3400784728,3891536761#notes: PVE TripleTap
+// Iterative Loop
+// https://www.youtube.com/watch?v=coD51ZSc-8Q
+dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,3511092054#notes: https://www.youtube.com/watch?v=coD51ZSc-8Q
